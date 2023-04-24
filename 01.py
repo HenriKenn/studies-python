@@ -1,1 +1,1 @@
-print ("Olá, mundo !")
+print ("Olá, mundo !")  # <-- Apresenta na tela Olá, mundo !
