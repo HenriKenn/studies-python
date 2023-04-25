@@ -1,3 +1,5 @@
+#Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório entre eles.
+
 n = int (input("Digite um valor: "))
 n2 = int (input("Digite outro valor: "))
 
