@@ -1,4 +1,4 @@
-#Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas.
+# Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas.
 
 print ("-=-"*20)
 metros = float(input("Digite a distância em metros: "))
