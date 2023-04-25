@@ -3,7 +3,7 @@ Estudos da linguagem Python
 
 Aqui vai está todos meus estudos e exercicios do python
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+~~~~-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Exercícios de Algoritmos
 Prof. Gustavo Guanabara
@@ -420,14 +420,14 @@ Ex: Ao chamar Gerador("Aprendendo Portugol", 4) aparece:
 1)  Crie um programa que melhore o procedimento Gerador() da questão anterior
 para que o programador possa escolher uma entre três bordas:
  +-------=======------+ Borda 1
- ~~~~~~~~:::::::~~~~~~~ Borda 2
+ #~~~~~~~~:::::::~~~~~~~ Borda 2
  <<<<<<<<------->>>>>>> Borda 3
 Ex: Uma chamada válida seria Gerador("Portugol Studio", 3, 2)
-~~~~~~~~:::::::~~~~~~~
+#~~~~~~~~:::::::~~~~~~~
  Portugol Studio
  Portugol Studio
  Portugol Studio
-~~~~~~~~:::::::~~~~~~~
+#~~~~~~~~:::::::~~~~~~~
 1)  Desenvolva um algoritmo que leia dois valores pelo teclado e passe esses
 valores para um procedimento Somador() que vai calcular e mostrar a soma entre
 eles.
