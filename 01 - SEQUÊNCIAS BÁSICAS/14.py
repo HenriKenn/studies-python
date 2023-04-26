@@ -5,10 +5,8 @@ km = float(input ("--> Qual é a Kilometragem do veículos? "))
 
 dias = int(input("--> Quanto dias o carro ficou alugado ? "))
 
-custodia = ( dias * 90 )
-kmrodado = ( km * 0.20 )
-resultado = custodia + kmrodado
+pago = ( dias * 90 ) + (km * 0.20)
 
-print (f"--> O valor do aluguél do veículo ficou R${resultado:.2F}")
+print (f"--> O valor do aluguél do veículo ficou R${pago:.2F}")
 
 print ("-=-=-"*20)
