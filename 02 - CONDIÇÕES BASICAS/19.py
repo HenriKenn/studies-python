@@ -3,12 +3,12 @@
 
 print("-=-="*20)
 nome = str(input("--> Qual é o seu nome ? "))
-numb = float(input("--> Digite a primeira nota do aluno: "))
-numb2 = float(input("--> Digite a segunda nota do aluno: "))
+numb = float(input(f"--> {nome}, Digite a primeira nota: "))
+numb2 = float(input(f"--> {nome}, Digite a segunda nota: "))
 
 result = (numb + numb2)/2
 
-print(f"--> Sua média foi de {result}")
+print(f"--> Sua média ficou: {result}")
 
 if result > 7.0:
 
